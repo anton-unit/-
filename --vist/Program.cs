@@ -7,7 +7,7 @@ namespace __vist
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Hello friends!");
-            Console.WriteLine( "I  amsuperman)");
+            Console.WriteLine( "I  am superman)");
             Console.ReadLine();
         }
     }
